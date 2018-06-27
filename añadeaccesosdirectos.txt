@@ -1,0 +1,3 @@
+Añade accesos directos a los marcadores:
+
+Si eres de los que utiliza activamente Google Drive para crear muchos y diferentes tipos de documento, quizá deberías considerar añadir atajos en tu barra de marcadores. Las direcciones que necesitarás serán http://drive.google.com/document/create para nuevos documentos y http://drive.google.com/spreadsheet/create para nuevas hojas de cálculo.
