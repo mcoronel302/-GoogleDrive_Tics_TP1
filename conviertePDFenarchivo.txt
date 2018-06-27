@@ -1,0 +1,4 @@
+Convierte un PDF en archivo de texto:
+
+Google Drive incluye un motor interno capaz de leer archivos PDF y convertirlos automáticamente en documentos de texto. Para conseguirlo sólo hay que subir el PDF a nuestra carpeta, hacer click derecho sobre él y elegir la opción Abrir con y Documentos de Google. Tendrás que esperar unos segundos pero la transformación será automática.
+El documento de texto resultante se guardará automáticamente como tal, de manera que no tengas que hacer la conversión cada vez que quieras cambiar algo. También tendrás la opción inversa, para lo cual sólo debes abrir un documento de texto y elegir la opción de descargarlo como un PDF.

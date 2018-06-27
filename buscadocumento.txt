@@ -1,0 +1,8 @@
+Busca el documento que una persona concreta te ha compartido:
+
+En la carpeta Compartido conmigo de Google Drive puedes encontrar todos los documentos y archivos que se han compartido contigo. Pero en el caso de que colabores en muchos proyectos, la carpeta puede estar tan llena que sea difícil encontrar uno en concreto. Para eso Google ha añadido un buscador.
+En él puedes realizar búsquedas por nombre, pero también hay otro método para encontrar los documentos de cuyo título no te acuerdes. Tendrás que recordar quién lo compartió contigo, e insertar en el buscador su nombre o correo electrónico para ver todos los documentos lo que te ha enviado.
+
+Sube archivos arrastrándolos desde una carpeta:
+
+Este pequeño truco es bastante conocido, pero si eres de los que aún no lo sabía seguro que hace tu vida un poco más fácil. Además de mediante sus menús internos, para subir archivos locales también puedes limitarte a seleccionarlos en la carpeta donde los tengas y arrastrarlos con el ratón hasta Drive. El drag and drop de toda la vida.
