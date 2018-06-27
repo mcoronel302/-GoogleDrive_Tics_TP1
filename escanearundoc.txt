@@ -1,0 +1,5 @@
+Escanea un documento con el móvil:
+
+En su versión móvil Drive también permite escanear documentos y pasarlos a PDF. Para activarlo hay que darle al + para crear nuevo documento y darle a la opción escanear. Al sacar una foto, la aplicación reconocerá automáticamente los bordes del documento y guardará la captura en PDF, aunque reconociendo el contenido del texto para poderlo localizar con el buscador de Drive.
+
+Aunque no funciona a la perfección, el texto del PDF también se podrá convertir a formato de documento, permitiendo no sólo escanear su contenido, sino poder editarlo después para añadir cosas o copiar fragmentos de su texto. Sin duda una opción prometedora para quienes realizan trabajo de oficina.
