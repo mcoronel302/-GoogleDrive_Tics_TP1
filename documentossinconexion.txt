@@ -1,0 +1,3 @@
+Google Drive funciona en la nube, y por lo tanto para operar en ella dependemos de nuestra conexión. Esto convertirse en un inconveniente cuando te vas de viaje y quieres acceder a ciertos documentos, por lo que se ha implementado en sus aplicaciones móviles un sistema para hacer que puedan accesibles sin conexión.
+
+Para poder marcar un documento o archivo como disponible sin conexión sólo hay que mantenerlo pulsado hasta que se seleccione, momento en el que en la parte inferior de la pantalla aparecerán varias opciones. Una de ellas será la de Acceso sin conexión, que lo descargará para poder utilizarlo siempre que necesitemos.
